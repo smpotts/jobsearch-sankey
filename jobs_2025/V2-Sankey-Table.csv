@@ -1,0 +1,80 @@
+Company,Source,Target
+Apptegy,Recruiter Inquiry,HR/ Hiring Manager Interview
+Apptegy,HR/ Hiring Manager Interview,Technical Interview
+Apptegy,Technical Interview,Panel Interview
+Apptegy,Panel Interview,Offer
+Apptegy,Offer,Accepted Offer
+ClassDojo,Recruiter Inquiry,HR/ Hiring Manager Interview
+ClassDojo,HR/ Hiring Manager Interview,Technical Interview
+ClassDojo,Technical Interview,Panel Interview
+ClassDojo,Panel Interview,Rejected
+CoBank,Recruiter Inquiry,HR/ Hiring Manager Interview
+CoBank,HR/ Hiring Manager Interview,Rejected
+DeleteMe,Hiring Manager Inquiry,HR/ Hiring Manager Interview
+DeleteMe,HR/ Hiring Manager Interview,Technical Interview
+DeleteMe,Technical Interview,Panel Interview
+DeleteMe,Panel Interview,Offer
+DeleteMe,Offer,Declined Offer
+ezCater,Recruiter Inquiry,HR/ Hiring Manager Interview
+ezCater,HR/ Hiring Manager Interview,Rejected
+Magpie Literacy,Applied,HR/ Hiring Manager Interview
+Magpie Literacy,HR/ Hiring Manager Interview,Technical Interview
+Magpie Literacy,Technical Interview,Panel Interview
+Magpie Literacy,Panel Interview,Withdrew
+Textio,Applied,HR/ Hiring Manager Interview
+Textio,HR/ Hiring Manager Interview,Withdrew
+True RX,Applied,HR/ Hiring Manager Interview
+True RX,HR/ Hiring Manager Interview,Rejected
+Sardine,Applied,Auto-Rejected
+AllTrails,Applied,Auto-Rejected
+BridgeBio,Applied,Auto-Rejected
+CashApp,Applied,Auto-Rejected
+Cytovale,Applied,Auto-Rejected
+Dave,Applied,Auto-Rejected
+Docker,Applied,Auto-Rejected
+Earnest,Applied,Auto-Rejected
+Experian,Applied,Auto-Rejected
+First Stop Health,Applied,Auto-Rejected
+Fixify,Applied,Auto-Rejected
+honeycomb.io,Applied,Auto-Rejected
+Ironclad,Applied,Auto-Rejected
+Left Field Labs,Applied,Auto-Rejected
+Lithic,Applied,Auto-Rejected
+Maven Clinic,Applied,Auto-Rejected
+Mercury,Applied,Auto-Rejected
+Recharge,Applied,Auto-Rejected
+Rinsed,Applied,Auto-Rejected
+Risk Labs,Applied,Auto-Rejected
+SonderMind,Applied,Auto-Rejected
+Spring Health,Applied,Auto-Rejected
+Two Chairs,Applied,Auto-Rejected
+UChicago Medicine,Applied,Auto-Rejected
+UShip,Applied,Auto-Rejected
+Apera,Applied,No Response
+AppFolio,Applied,No Response
+Aura,Applied,No Response
+BluelightAI,Applied,No Response
+Canary Technologies,Applied,No Response
+Common Room,Applied,No Response
+Cyera,Applied,No Response
+Elder Research,Applied,No Response
+ElevenLabs,Applied,No Response
+Energy Jobline,Applied,No Response
+Enigma Technologies,Applied,No Response
+Fetch,Applied,No Response
+Flex,Applied,No Response
+Flex,Applied,No Response
+Instacart,Applied,No Response
+Kickstarter,Applied,No Response
+Lark,Applied,No Response
+LiveRamp,Applied,No Response
+MaestroQA,Applied,No Response
+Pattern Data,Applied,No Response
+Qu,Applied,No Response
+Quantum Metrics,Applied,No Response
+SageSure,Applied,No Response
+SageSure,Applied,No Response
+Seemas,Applied,No Response
+Stedi,Applied,No Response
+Tradeweb,Applied,No Response
+Valon,Applied,No Response
