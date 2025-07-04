@@ -5,6 +5,7 @@ choreographer==1.0.9
 comm==0.2.2
 debugpy==1.8.14
 decorator==5.2.1
+dotenv==0.9.9
 executing==2.2.0
 fastjsonschema==2.21.1
 ipykernel==6.29.5
@@ -35,6 +36,7 @@ ptyprocess==0.7.0
 pure_eval==0.2.3
 Pygments==2.19.2
 python-dateutil==2.9.0.post0
+python-dotenv==1.1.1
 pytz==2025.2
 pyzmq==27.0.0
 referencing==0.36.2

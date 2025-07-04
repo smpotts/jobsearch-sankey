@@ -174,5 +174,8 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-input_data/
-output_data/
+input_data/*
+!input_data/example_job_search_transitions.csv
+
+output_data/*
+!output_data/example_job_search_sankey_diagram.png
