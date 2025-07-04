@@ -1,0 +1,190 @@
+Company,Source,Target
+Company_1,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_1,HR/ Hiring Manager Interview,No Response
+Company_2,Applied,Withdrew
+Company_3,Applied,No Response
+Company_4,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_4,HR/ Hiring Manager Interview,Offer
+Company_4,Offer,Offer Declined
+Company_5,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_5,HR/ Hiring Manager Interview,Rejected
+Company_6,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_6,HR/ Hiring Manager Interview,Technical Interview
+Company_6,Technical Interview,Panel Interview
+Company_6,Panel Interview,Rejected
+Company_7,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_7,HR/ Hiring Manager Interview,Offer
+Company_7,Offer,Offer Declined
+Company_8,Applied,HR/ Hiring Manager Interview
+Company_8,HR/ Hiring Manager Interview,Offer
+Company_8,Offer,Offer Accepted
+Company_9,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_9,HR/ Hiring Manager Interview,Offer
+Company_9,Offer,Offer Accepted
+Company_10,Applied,HR/ Hiring Manager Interview
+Company_10,HR/ Hiring Manager Interview,Offer
+Company_10,Offer,Offer Declined
+Company_11,Applied,Auto-Rejected
+Company_12,Applied,Auto-Rejected
+Company_13,Applied,HR/ Hiring Manager Interview
+Company_13,HR/ Hiring Manager Interview,Offer
+Company_13,Offer,Offer Declined
+Company_14,Applied,Auto-Rejected
+Company_15,Applied,No Response
+Company_16,Applied,Auto-Rejected
+Company_17,Applied,HR/ Hiring Manager Interview
+Company_17,HR/ Hiring Manager Interview,Rejected
+Company_18,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_18,HR/ Hiring Manager Interview,Rejected
+Company_19,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_19,HR/ Hiring Manager Interview,Rejected
+Company_20,Applied,HR/ Hiring Manager Interview
+Company_20,HR/ Hiring Manager Interview,Technical Interview
+Company_20,Technical Interview,Panel Interview
+Company_20,Panel Interview,Withdrew
+Company_21,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_21,HR/ Hiring Manager Interview,Rejected
+Company_22,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_22,HR/ Hiring Manager Interview,Withdrew
+Company_23,Applied,HR/ Hiring Manager Interview
+Company_23,HR/ Hiring Manager Interview,Rejected
+Company_24,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_24,HR/ Hiring Manager Interview,Technical Interview
+Company_24,Technical Interview,Withdrew
+Company_25,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_25,HR/ Hiring Manager Interview,No Response
+Company_26,Applied,Withdrew
+Company_27,Applied,Withdrew
+Company_28,Applied,No Response
+Company_29,Applied,Withdrew
+Company_30,Applied,Withdrew
+Company_31,Applied,Withdrew
+Company_32,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_32,HR/ Hiring Manager Interview,Offer
+Company_32,Offer,Offer Declined
+Company_33,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_33,HR/ Hiring Manager Interview,No Response
+Company_34,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_34,HR/ Hiring Manager Interview,Offer
+Company_34,Offer,Offer Accepted
+Company_35,Applied,HR/ Hiring Manager Interview
+Company_35,HR/ Hiring Manager Interview,Technical Interview
+Company_35,Technical Interview,Rejected
+Company_36,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_36,HR/ Hiring Manager Interview,Technical Interview
+Company_36,Technical Interview,Rejected
+Company_37,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_37,HR/ Hiring Manager Interview,Offer
+Company_37,Offer,Offer Accepted
+Company_38,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_38,HR/ Hiring Manager Interview,Offer
+Company_38,Offer,Offer Accepted
+Company_39,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_39,HR/ Hiring Manager Interview,Offer
+Company_39,Offer,Offer Accepted
+Company_40,Applied,Auto-Rejected
+Company_41,Applied,Auto-Rejected
+Company_42,Applied,No Response
+Company_43,Applied,No Response
+Company_44,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_44,HR/ Hiring Manager Interview,Withdrew
+Company_45,Applied,HR/ Hiring Manager Interview
+Company_45,HR/ Hiring Manager Interview,Technical Interview
+Company_45,Technical Interview,Rejected
+Company_46,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_46,HR/ Hiring Manager Interview,Offer
+Company_46,Offer,Offer Accepted
+Company_47,Applied,No Response
+Company_48,Applied,Withdrew
+Company_49,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_49,HR/ Hiring Manager Interview,No Response
+Company_50,Applied,No Response
+Company_51,Applied,No Response
+Company_52,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_52,HR/ Hiring Manager Interview,Rejected
+Company_53,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_53,HR/ Hiring Manager Interview,Withdrew
+Company_54,Applied,No Response
+Company_55,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_55,HR/ Hiring Manager Interview,Technical Interview
+Company_55,Technical Interview,Withdrew
+Company_56,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_56,HR/ Hiring Manager Interview,Rejected
+Company_57,Applied,Withdrew
+Company_58,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_58,HR/ Hiring Manager Interview,Withdrew
+Company_59,Applied,HR/ Hiring Manager Interview
+Company_59,HR/ Hiring Manager Interview,No Response
+Company_60,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_60,HR/ Hiring Manager Interview,Offer
+Company_60,Offer,Offer Declined
+Company_61,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_61,HR/ Hiring Manager Interview,Withdrew
+Company_62,Applied,No Response
+Company_63,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_63,HR/ Hiring Manager Interview,Withdrew
+Company_64,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_64,HR/ Hiring Manager Interview,Offer
+Company_64,Offer,Offer Accepted
+Company_65,Applied,No Response
+Company_66,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_66,HR/ Hiring Manager Interview,Rejected
+Company_67,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_67,HR/ Hiring Manager Interview,Withdrew
+Company_68,Applied,Withdrew
+Company_69,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_69,HR/ Hiring Manager Interview,Offer
+Company_69,Offer,Offer Accepted
+Company_70,Applied,Auto-Rejected
+Company_71,Applied,No Response
+Company_72,Applied,No Response
+Company_73,Applied,Withdrew
+Company_74,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_74,HR/ Hiring Manager Interview,No Response
+Company_75,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_75,HR/ Hiring Manager Interview,Rejected
+Company_76,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_76,HR/ Hiring Manager Interview,Withdrew
+Company_77,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_77,HR/ Hiring Manager Interview,Technical Interview
+Company_77,Technical Interview,Withdrew
+Company_78,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_78,HR/ Hiring Manager Interview,Withdrew
+Company_79,Applied,Auto-Rejected
+Company_80,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_80,HR/ Hiring Manager Interview,Withdrew
+Company_81,Applied,No Response
+Company_82,Applied,Auto-Rejected
+Company_83,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_83,HR/ Hiring Manager Interview,Withdrew
+Company_84,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_84,HR/ Hiring Manager Interview,Technical Interview
+Company_84,Technical Interview,Rejected
+Company_85,Applied,Auto-Rejected
+Company_86,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_86,HR/ Hiring Manager Interview,Withdrew
+Company_87,Applied,Auto-Rejected
+Company_88,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_88,HR/ Hiring Manager Interview,No Response
+Company_89,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_89,HR/ Hiring Manager Interview,Offer
+Company_89,Offer,Offer Declined
+Company_90,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_90,HR/ Hiring Manager Interview,No Response
+Company_91,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_91,HR/ Hiring Manager Interview,Technical Interview
+Company_91,Technical Interview,Withdrew
+Company_92,Applied,Withdrew
+Company_93,Applied,HR/ Hiring Manager Interview
+Company_93,HR/ Hiring Manager Interview,Rejected
+Company_94,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_94,HR/ Hiring Manager Interview,Withdrew
+Company_95,Applied,Auto-Rejected
+Company_96,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_96,HR/ Hiring Manager Interview,Withdrew
+Company_97,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_97,HR/ Hiring Manager Interview,Withdrew
+Company_98,Applied,Auto-Rejected
+Company_99,Applied,Auto-Rejected
+Company_100,Recruiter Inquiry,HR/ Hiring Manager Interview
+Company_100,HR/ Hiring Manager Interview,No Response
