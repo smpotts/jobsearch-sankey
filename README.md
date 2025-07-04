@@ -1,8 +1,24 @@
 # Job Search Sankey 
 
-## Overview
+## Background & Purpose
 
-This project visualizes the flow of job applications through different interview stages using Sankey diagrams. The goal is to better understand how job applications progress, where bottlenecks or drop-offs occur, and how many interviews ultimately lead to offers.
+In October 2024, I began applying to jobs intensely after learning about an impending layoff. Like many job seekers, I found myself sending out dozens of applications, often with little visibility into how far I was getting in the process. By early 2025, I had resumed applying again with a renewed focus and a more structured approach to tracking progress.
+
+To bring clarity to this overwhelming experience, I began logging each application I submitted, along with the specific stages it went through — from initial submission to final outcome. I wanted to know:
+- How many applications progressed beyond the first step?
+- At what stage were most rejections happening?
+- How many companies made it to final interviews or offers?
+
+This notebook uses Sankey diagrams to visualize the flow of applications across various stages in the interview process. Each node represents a distinct stage (e.g., "Applied", "HR Call", "Technical Interview", "Offer"), and the links represent transitions between them. The thickness of each link corresponds to the number of applications that followed that particular path.
+
+By visualizing this data:
+- I can see common patterns and dead ends.
+- I get insight into which stages were the most common points of rejection.
+- I gain a clear picture of where effort translated into progress — and where it didn’t.
+
+This project is both personal and analytical: a way to make sense of a challenging time and derive insights that could help improve future job searches.
+
+### Example output
 
 This Sankey diagram visualizes the flow of job applications through various interview stages. Each node represents a stage in the process (e.g., Applied, Recruiter Inquiry, Technical Interview), and the width of the connecting arrows indicates how many applications moved between those stages. This visualization helps identify common paths, bottlenecks, and outcomes in a job search.
 
